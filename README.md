@@ -1,7 +1,7 @@
 ## 📌 Description
 melt, pivot or unpivot columns
 ## 📸 Screenshot
-![screenshot1](./assets/db_melt_table1.png)
+![screenshot1](./assets/db_melt_table1.png?raw=true)
 ## 📝 Parameters
 Name|optional|description
 ---|---|------
