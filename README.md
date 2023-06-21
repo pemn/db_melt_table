@@ -7,8 +7,8 @@ Name|optional|description
 ---|---|------
 input_path||path to source data
 operation|melt|columns to rows (wide table to long table)
-|pivot|rows to columns (long table to wide table)
-|unpivot|similar to melt but using numeric prefixes
+||pivot|rows to columns (long table to wide table)
+||unpivot|similar to melt but using numeric prefixes
 keys|❎|fields that will be used a classification
 pivot_var|❎|field that will be used as pivot
 values|❎|fields that will be melt or pivoted
